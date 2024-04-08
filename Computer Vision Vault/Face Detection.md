@@ -1,0 +1,17 @@
+# Temario
+- [[Pixels]]
+- [[Cascade Classifier]]
+- [[Adaboost]]
+- [[Pre-Processing the image]]
+- [[Face Detection (Python)]]
+- [[Haarcascade parameters 1]]
+- [[Haarcascade parameters 2]]
+- [[Eye Detection]]
+- [[HOG]]
+- [[Dlib]]
+- [[Face Detection HOG]]
+- [[Face Detection CNN]]
+- [[Anaconda]]
+- [[Face Detection Webcam]]
+- [[Face Detection (EXTRA)]]
+ 

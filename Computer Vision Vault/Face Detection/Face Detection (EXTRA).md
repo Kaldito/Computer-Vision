@@ -1,0 +1,5 @@
+- [OpenCV: OpenCV modules](https://docs.opencv.org/4.x/)
+- [Classes — dlib documentation](http://dlib.net/python/index.html)
+- [Guide to make Custom Haar Cascade XML file for Object detection with OpenCV | by Vipul dilip gote | Medium](https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e)
+- [Training a custom Object Detector with DLIB and Making Gesture Controlled Applications | LearnOpenCV](https://learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/)
+- 

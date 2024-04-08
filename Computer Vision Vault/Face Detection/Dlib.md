@@ -1,0 +1,5 @@
+Dlib es una biblioteca de software moderna y de código abierto para el procesamiento de imágenes y el aprendizaje automático en C++. Ofrece una amplia gama de herramientas y algoritmos útiles para la investigación y el desarrollo en estos campos. Dlib es conocida por su eficiencia y facilidad de uso, además de estar bien documentada.
+
+La biblioteca incluye algoritmos para una variedad de tareas, como reconocimiento facial, clasificación, regresión, clustering, transformaciones de imagen, y mucho más. Dlib también es famosa por su implementación de algoritmos de aprendizaje profundo con soporte para [[redes neuronales convolucionales]] (CNNs) y redes neuronales recurrentes (RNNs), lo que la hace una herramienta valiosa para aplicaciones de visión por computadora y procesamiento de lenguaje natural.
+
+Una de las características destacadas de Dlib es su detector de puntos faciales, que es ampliamente utilizado para aplicaciones de reconocimiento facial y seguimiento facial en tiempo real.

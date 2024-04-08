@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "68ebee4bd5f435b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6840ea016d2d038b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf6a001c1025eb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconocimiento Facial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1696b990f3681685",
+    "type": "split",
+    "children": [
+      {
+        "id": "afa65579fbaad34e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09074fa07dd0786f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5e7caf10ea4845a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d7696da3a1fa684",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "043b9abe681e65aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a91263e19e1bf160",
+        "type": "tabs",
+        "dimension": 43.269230769230774,
+        "children": [
+          {
+            "id": "fe576fbce9ee93f5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Reconocimiento Facial.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000004,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1518a5d4a993c576",
+        "type": "tabs",
+        "dimension": 56.730769230769226,
+        "children": [
+          {
+            "id": "aa52850ddbd0f7ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reconocimiento Facial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73372dbf71b8d65c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reconocimiento Facial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1f49ba87b65538b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37bdbacc8dbfd7de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reconocimiento Facial.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf6a001c1025eb71",
+  "lastOpenFiles": [
+    "Opencv Face Recognition 4.md",
+    "Reconocimiento Facial.md",
+    "Opencv Face Recognition 2.md",
+    "Opencv Face Recognition 3.md",
+    "Opencv Face Recognition 1.md",
+    "Computer Vision (Inicio).md",
+    "Librería Pillow.md",
+    "LBPH.md",
+    "Face Detection.md",
+    "Reconocimiento Facial/Pasted image 20240331193144.png",
+    "Reconocimiento Facial",
+    "Reconocimiento Facial/Pasted image 20240331193153.png",
+    "Face Detection/Face Detection Webcam.md",
+    "Face Detection/Face Detection (EXTRA).md",
+    "Face Detection/Anaconda.md",
+    "Face Detection/HOG.md",
+    "Face Detection/Face Detection HOG.md",
+    "Face Detection/Face Detection CNN.md",
+    "Face Detection/Eye Detection.md",
+    "Face Detection/Dlib.md",
+    "Face Detection/redes neuronales convolucionales.md",
+    "Face Detection/Imagenes/Pasted image 20240317142447.png",
+    "Face Detection/Imagenes/Pasted image 20240317143303.png",
+    "Face Detection/Imagenes/Pasted image 20240317142807.png",
+    "Face Detection/Imagenes/Pasted image 20240317142555.png",
+    "Face Detection/Haarcascade parameters 1.md",
+    "Pasted image 20240317135137.png",
+    "Face Detection/Imagenes/Pasted image 20240317134703.png",
+    "Face Detection/Imagenes/people2.jpg",
+    "Face Detection/Haarcascade parameters 2.md",
+    "Untitled.md",
+    "Face Detection/Face Detection (Python).md",
+    "Face Detection/Pre-Processing the image.md",
+    "Face Detection/Cascade Classifier.md",
+    "Face Detection/Adaboost.md",
+    "Face Detection/Imagenes/Pasted image 20240316231630.png",
+    "Face Detection",
+    "Face Detection/Imagenes",
+    "Face Detection/Pixels.md"
+  ]
+}
